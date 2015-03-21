@@ -1,0 +1,1 @@
+A Java version of Pacman by two student from Granada University. Up to four player can play together, even it is implemented a option to play as ghost(max 3). Several difficulty levels and maps. To be honest, the most complete PacMan ever.
